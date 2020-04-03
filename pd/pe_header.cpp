@@ -1,5 +1,4 @@
-#include "StdAfx.h"
-#include "pe_header.h"
+
 
 pe_header::pe_header( char* filename, PD_OPTIONS* options )
 {
